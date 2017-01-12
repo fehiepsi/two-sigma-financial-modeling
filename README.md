@@ -35,9 +35,9 @@ Are you ready to enter Kaggle's inaugural Code Competition? Unlike our standard 
 1. From the competition's page, click "Submit Model" on the right side of the competition menu bar. Note that you can also make a submission by clicking on "New Script" from the [Kernels tab](https://www.kaggle.com/c/two-sigma-financial-modeling/kernels).
 2. Once you've reviewed and accepted the competition rules, a new script editor will open with Python code to make an all-zeros submission.
 3. Choose a title for your kernel and enter your code in the editor. Remember, your kernel will be private to you unless you decide to share it later. When you're done, you can choose either:
-+ "Run" to run your model against the training set. You may make unlimited runs.
-+ "Submit" to run your model against the test set. Submissions are limited per day (see **Important Notes** below for details).
-4 .Choosing "Submit" will take you to the leaderboard. Once your submission finishes running, your public leaderboard score and position are revealed.
+    + "Run" to run your model against the training set. You may make unlimited runs.
+    + "Submit" to run your model against the test set. Submissions are limited per day (see **Important Notes** below for details).
+4. Choosing "Submit" will take you to the leaderboard. Once your submission finishes running, your public leaderboard score and position are revealed.
 
 **Kaggle Gym API Overview & Starter Tutorial**
 
